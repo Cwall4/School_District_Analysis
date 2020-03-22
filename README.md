@@ -21,3 +21,4 @@ The recalculated school summary DataFrame has all schools other than Thomas High
 Removing the suspicious grades has moved Thomas High School out of its position as the second-highest performing school. It is no longer in the top five by overall passing percentage, but has fallen to the middle of the pack.
 
 ## Scores by Grade
+
