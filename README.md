@@ -10,8 +10,12 @@ After meeting with Maria and the school superintendent, I have decided the best 
   
 ## District Summary
 
-After recalculating the district summary DataFrame, the total number of schools, students, etc., remain unchanged. This is good, as we didn't want these to change. Both average scores have fallen slightly (by ~0.05), and pass percentages have fallen by ~1%.
+After recalculating the district summary DataFrame, the total number of schools, students, etc., remain unchanged. This is good, as we didn't want these to change. Average scores are only slightly lower, but pass percentages have fallen by ~1%.
 
 ## School Summary
+
+The recalculated school summary DataFrame has all schools other than Thomas High School unchanged. Again, this is what we want and expect. Thomas High School's totals and budget calculations similarly match. However, Thomas High School's averages have changed slightly, and the percentage of students passing has fallen dramatically, from the 90s to the 60s.
+
+## High and Low Performing Schools
 
 
