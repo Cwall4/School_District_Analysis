@@ -16,6 +16,8 @@ After recalculating the district summary DataFrame, the total number of schools,
 
 The recalculated school summary DataFrame has all schools other than Thomas High School unchanged. Again, this is what we want and expect. Thomas High School's totals and budget calculations similarly match. However, Thomas High School's averages have changed slightly, and the percentage of students passing has fallen dramatically, from the 90s to the 60s.
 
-## High and Low Performing Schools
+## High and Low-Performing Schools
 
+Removing the suspicious grades has moved Thomas High School out of its position as the second-highest performing school. It is no longer in the top five by overall passing percentage, but has fallen to the middle of the pack.
 
+## Scores by Grade
