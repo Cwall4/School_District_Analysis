@@ -10,4 +10,8 @@ After meeting with Maria and the school superintendent, I have decided the best 
   
 ## District Summary
 
-After recalculating the district summary DataFrame, the total number of schools, students, etc., remain unchanged. This is good, as we didn't want these to change. All grade scores and pass percentages have fallen. 
+After recalculating the district summary DataFrame, the total number of schools, students, etc., remain unchanged. This is good, as we didn't want these to change. Both average scores have fallen slightly (by ~0.05), and pass percentages have fallen by ~1%.
+
+## School Summary
+
+
