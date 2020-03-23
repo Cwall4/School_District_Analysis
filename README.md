@@ -22,3 +22,20 @@ Removing the suspicious grades has moved Thomas High School out of its position 
 
 ## Scores by Grade
 
+Thomas High School's Grade 9 averages for reading and math appeared high, so their exclusion likely lowered the average across all schools' Grade 9 scores.
+
+## Scores by School Spending
+
+While the changes haven't affected the average reading and math scores of any spending range, the passing percentages of schools spending $630-644 per student have fallen by 6-7%. This makes sense, as Thomas High School falls into this range.
+
+## Scores by School Size
+
+Only the passing percentages for Medium (1000-2000 student) schools have fallen by 6%. This is consistent with Thomas High School's removal, as it is a Medium size school.
+
+## Scores by School Type
+
+The passing percentages for charter schools have fallen by 3-4%. Thomas High School was a charter school.
+
+## Conclusion
+
+The new DataFrames, especially when compared to the older data including Thomas High School's Grade 9 scores, should help Maria and school administrators. The changes from removing the suspicious scores aren't proof enough, but do appear biased towards Thomas High School having shifted grades in order to inflate passing percentages. Not only that, but we don't see any changes in data that can't be explained by Thomas High School's exclusion. This is important too, since it reassures us that we changed only the intended data, nothing more.
